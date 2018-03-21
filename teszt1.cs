@@ -6,5 +6,6 @@ public class Teszt1
 	{
         //írtam bele kommentet
 		//komment szakzsolt
+        //asdsdaf sadf sad 1
 	}
 }
