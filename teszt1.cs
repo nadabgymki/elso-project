@@ -5,5 +5,7 @@ public class Teszt1
 	public Teszt1()
 	{
        //első sor nada
+
+        // ez már a Java?
 	}
 }
