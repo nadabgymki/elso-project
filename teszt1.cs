@@ -7,5 +7,7 @@ public class Teszt1
         //írtam bele kommentet
 		//komment szakzsolt
         //askfnéáskfjaéfkmsdlkfalkfna
+
+        //megyerimarton comment
 	}
 }
