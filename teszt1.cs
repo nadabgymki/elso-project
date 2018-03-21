@@ -6,6 +6,6 @@ public class Teszt1
 	{
        //első sor nada
 
-        // ez már a Java?
+        
 	}
 }
