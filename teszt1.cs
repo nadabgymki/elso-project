@@ -9,6 +9,8 @@ public class Teszt1
         //asdsdaf sadf sad 1
         //askfnéáskfjaéfkmsdlkfalkfna
 
+        // ez már a Java?
+
         //megyerimarton comment
 	}
 }
